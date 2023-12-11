@@ -22,3 +22,5 @@ What we look for the most during a point release BETA phase are regressions comi
 That's not to say we shouldn't fix other issues. If we have clear feedback and clear understand of upstream issues, we can fix these as well. But in those few days between BETA and STABLE, we're literally in a rush, to fix as many issues as possible, so we're really looking for the ones where we can make a difference.
 
 Note: Thank you for taking part in this BETA. There are many of you and very few of us and it's hard to acknowledge and thank everyone for their participation, especially when rushing like this. We do appreciate your help and we look forward to fixing bugs.
+
+Note: Do not report **Wayland** related bugs. We have a dedicated github repository for them at https://github.com/linuxmint/wayland.
